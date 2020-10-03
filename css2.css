@@ -575,6 +575,11 @@ a .button:hover{
 	color: #50d1c0!important;
 }
 
+.submit a {
+	text-decoration: none;
+	list-style: none;
+}
+
 form:hover .form-button button{
 	background-color: #fff!important;
 	color: #50d1c0!important;
